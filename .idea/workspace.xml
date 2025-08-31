@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.AutoClicker.executor": "Run",
     "Application.Autoclicker.executor": "Run",
     "Application.Main.executor": "Run",
