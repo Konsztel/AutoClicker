@@ -1,0 +1,9 @@
+- Moge zrobić klikacza do misji z zadowoleniem
+- Moge dodać tutaj program na klikanie po sąsiadach do zarobku
+- Moge pomyśleć nad auto zbieraniem pozostałych PR poprzez ciągłe trzymanie przycisku tylko, że to mape będzie przesuwać :/
+- Pomyśleć nad globalnym F6 do zatrzymania programów - nie jest to jakoś bardzo nie zbędne ale dobrze by było mieć kontrole aby zatrzymać podczas awari
+- Moge zrobić program na skrót klawiszowy F2 np. aby odpalił walke, wymienił wojsko i odebrał nagrode z Wypraw
+- Pozbyć sie tych błędów któe sypie w konsoli po zatrzymaniu programu
+- Moge zrobić walki na wyprawach przez ustawianie kamery przed odpaleniem i co ileś etapów przesuwać
+- Jak pobierać od osoby lokalizacje gdzie klikać aby dalej to wykorzystać?
+- Przerobić "produkcjaZasobowKwantowych"
