@@ -8,6 +8,6 @@ target/
 *.iml
 *.ipr
 .out/
-.idea/
-*idea/
-*idea
+idea/
+out/
+
