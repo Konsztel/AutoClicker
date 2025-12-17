@@ -12,7 +12,6 @@
 -howMuchClicksToProducesHammers NIE UŻYWANE OBECNIE
 
 Do przerobienia jeszcze
-PrCollector
-SceneManager
-HotheyHandler
-SettingView
+- SceneManager
+- HotheyHandler
+- SettingView
