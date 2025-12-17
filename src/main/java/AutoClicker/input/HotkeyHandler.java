@@ -1,4 +1,4 @@
-package AutoClicker.input;
-
-public class HotkeyHandler {
-}
+//package AutoClicker.input;
+//
+//public class HotkeyHandler {
+//}

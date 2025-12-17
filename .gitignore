@@ -9,4 +9,9 @@ target/
 *.ipr
 .idea/
 out/
+Pomoce.md
+TODO.md
+pom.xml
+/target/
+
 
